@@ -1,4 +1,4 @@
-# SOC Analyst Project | Threat Detection, Simulation, Automation & SIEM Integration by Vivek Katkade (linkedin url)
+# SOC Analyst Project | Threat Detection, Simulation, Automation & SIEM Integration by Vivek Katkade ([Vivek Katkade ](https://www.linkedin.com/in/vivekkatkade/))
 
 This project demonstrates a **comprehensive Security Operations Center (SOC)** setup designed to enable **real-time threat detection**, automated responses, and seamless **SIEM (Security Information and Event Management)** integration. The project includes **Sigma detection rules**, attack simulations, and a variety of tools for automating security workflows, providing hands-on experience with industry-standard SOC practices.
 
@@ -213,9 +213,8 @@ The **SOC Analyst Project** equips learners and professionals with practical ski
 For queries, suggestions, or collaborations:
 
 📧 Email: [katkadevivek@gmail.com](mailto:katkadevivek@gmail.com)
-🔗 LinkedIn: [vivekkatkade](https://www.linkedin.com/in/)
+🔗 LinkedIn: [vivekkatkade](https://www.linkedin.com/in/vivekkatkade/)
 
-```
 
 Let me know if you'd like this saved as a downloadable `.md` file or if you want a version with clickable links and badges (like stars, forks, tools used, etc.) to make it more GitHub-ready.
 ```
